@@ -1,4 +1,4 @@
-<h1>Site dos irmãos Mario e Luigi</h1>
+<h1>Sorteador de números aleatórios</h1>
 <br>
 <p>Projeto criado, utilizando conhecimento adquirido no <a href="http://rodolfomori.com.br/devclub">DevClub.</a></p>
 <br>
