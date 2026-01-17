@@ -1,6 +1,6 @@
 <h1>Sorteador de números aleatórios</h1>
 <br>
-<p>Projeto criado, utilizando conhecimento adquirido no <a href="http://rodolfomori.com.br/devclub">DevClub.</a></p>
+<p>Projeto criado, utilizando conhecimento adquirido no <a href="https://devclub.com.br/">DevClub.</a></p>
 <br>
 <p>Sorteador simples, de interface simples mas muito funcional. Foi ótimo para maior entendimento de HTML, CSS e JS.</p>
 <br>
